@@ -377,7 +377,3 @@ https://github.com/guna59129
 # 📜 License
  
 This project is open-source and available under the **MIT License**.
-````0
-AI Tools Directory - dealsbe.com
-Find useful AI tools for content, code, design, research, and automation.
- 
